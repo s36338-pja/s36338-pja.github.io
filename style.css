@@ -1,0 +1,101 @@
+body{
+    background-color:#500014
+}
+header{
+   padding-top: 20px;
+    background-image: url("https://i.postimg.cc/vZZsN5F1/hearts-valentine-s-day-background-romantic-love-wallpaper-design-red-heart-pink-texture-pattern-shap.webp");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    color: #3d000c;
+    text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
+    height: 250px;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+section{
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.kobitky img{
+height: 600px
+}
+#Glowna{
+    flex-wrap: wrap;
+    display: flex;
+     gap: 70px;
+     justify-content: center;
+     text-align: center;
+     padding: 20px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     padding-bottom: 50px;
+}
+#Podstrona{
+justify-content: center;
+display: flex;
+padding: 20px;
+gap: 30px;
+align-items: center;
+}
+article{
+    
+    width: 30%;
+    height: 400px;
+    background-color: #3b000c;
+    text-align: center;
+    align-content: center;
+    color: lightpink;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 25px;
+}
+main>img{
+    height: 600px;
+}
+ a{
+     color: lightpink;
+     text-decoration: none;
+ }
+
+ footer{
+    background-color: #ba1451;
+    position: fixed;
+    left: 0; bottom: 0;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    color: #ffffff;
+ }
+ .kobitky div{
+    border: solid #3b000c 5px;
+    background-color: #3b000c;
+ }
+ .Imiona{
+    font-size:30px;
+ }
+ button{
+   margin: 50px;
+    padding: 20px;
+    display: flex;
+    justify-self: center;
+    background-color: #c55d83;
+color: #3b000c;
+border-radius: 30px;
+border: none;
+transition: 0.2s;
+
+ }
+ button:hover{
+    margin: 50px;
+    padding: 20px;
+    display: flex;
+    justify-self: center;
+    background-color: #eb8bae;
+color: #3b000c;
+border-radius: 30px;
+border: none;
+transition: 0.2s;
+ }

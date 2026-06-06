@@ -2,7 +2,7 @@ body{
     background-color:#500014
 }
 header{
-   padding-top: 20px;
+   padding-top: 5px;
     background-image: url("https://i.postimg.cc/vZZsN5F1/hearts-valentine-s-day-background-romantic-love-wallpaper-design-red-heart-pink-texture-pattern-shap.webp");
     background-repeat: no-repeat;
     background-size: 100%;
@@ -13,7 +13,7 @@ header{
    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    
 }
-section{
+#opis{
     padding: 20px;
     text-align: center;
     color: aliceblue;
